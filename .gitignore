@@ -1,0 +1,10 @@
+backend/target/  
+*.jar  
+*.class  
+backend/src/main/resources/application.yml  
+frontend/.env  
+frontend/node_modules/  
+.idea/  
+.settings/  
+.classpath  
+.project 
